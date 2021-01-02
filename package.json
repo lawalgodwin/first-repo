@@ -1,0 +1,14 @@
+{
+  "name": "first-repo",
+  "version": "1.0.0",
+  "description": "testing the github desktop client",
+  "main": "index.js",
+  "repository": "https://github.com/lawalgodwin/first-repo.git",
+  "author": "Godwin <godwinl200@gmail.com>",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "express": "^4.17.1",
+    "pm2": "^4.5.1"
+  }
+}
